@@ -31,7 +31,11 @@ body {
                 }
             }
         }
-        
+        &.footer-link-a {
+            > nav > ul > li > a {
+                color: #FFF;
+            }
+        }  
     }
 }
 
@@ -41,7 +45,7 @@ button.disabled {
 }
 
 button.disable:hover {
-    background: rgba(36,36,36,0.8);
+    background: rgba(36,36,36,0.2);
 }
 
 button {
