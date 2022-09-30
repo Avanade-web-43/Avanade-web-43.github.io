@@ -1,7 +1,7 @@
 const aereasNacional = ["LATAM", "AZUL", "GOL"];
 const airCompanies = [...aereasNacional, "DELTA", "UNITED AIRLINES", "EMIRATES"];
 
-//desestruturação
+//atribuição por desestruturação de arrays
 const [latam, azul, gol, ...internacionais] = airCompanies;
 console.log(azul);
 
