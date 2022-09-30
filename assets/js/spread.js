@@ -8,8 +8,8 @@ console.log(azul);
 console.log(airCompanies);
 
 const user = {
-    name: "Pilar Leminski Veiga",
-    email: "pilar.leminski.veiga@avanade.com",
+    name: "Anna Karenina",
+    email: "teste@teste.com",
     password: "Groselha"
 }
 
