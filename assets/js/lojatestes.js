@@ -1,7 +1,6 @@
-// acessar https://dummyjson.com/products via fetch
-// listar produtos
-// colocar no console.log 10 produtos
-// na tela: título e descrição
+const menu = ['Produtos', 'Ofertas', 'Carrinho', 'Login'];
+
+
 
 const showProducts = async(e) => {
     
